@@ -1,0 +1,34 @@
+body{
+    background-color: #212121;
+    color: #fff;
+    font-family: Arial;
+}
+
+.container{
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    background: #333;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    background: orange;
+    border: none;
+    cursor: pointer;
+}
+
+#results{
+    margin-top: 15px;
+    font-size: 20px;
+}
